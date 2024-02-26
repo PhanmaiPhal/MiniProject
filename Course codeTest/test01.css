@@ -146,6 +146,7 @@ body {
     position: absolute;
     left: 920px;
     top: 50px;
+    
 }
 
 .menu3 {
@@ -161,6 +162,7 @@ body {
     bottom: 0%;
     top: 0%;
     height: 100%;
+    
 }
 
 .delivery2 {
@@ -184,6 +186,7 @@ body {
     bottom: 0%;
     top: 0%;
     height: 100%;
+    text-decoration: none;
 }
 
 .home2 {
@@ -192,6 +195,7 @@ body {
     position: absolute;
     left: 446px;
     top: 49px;
+    
 }
 
 .home3 {

@@ -165,6 +165,7 @@
   position: absolute;
   left: 920px;
   top: 50px;
+  
 }
 .menu3 {
   color: var(--text, #997063);
@@ -200,6 +201,7 @@
   bottom: -33.33%;
   top: 0%;
   height: 133.33%;
+  text-decoration: none;
 }
 .home2 {
   width: 90px;
@@ -207,6 +209,7 @@
   position: absolute;
   left: 446px;
   top: 49px;
+ 
 }
 .home3 {
   color: #997063;
